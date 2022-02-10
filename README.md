@@ -14,5 +14,5 @@
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
 👨‍💻 &nbsp;I also have good knowledge of UI/UX and have hands on Figma, Affinity.
 👨‍💻 &nbsp;I also have knowledge of C++, Python, Penetration Testing, IoT, Postman, JMeter.
-😁&nbsp;Apart from this I also have interest in Video editing, Photoshop. And I love memes🙈
+😁 &nbsp;Apart from this I also have interest in Video editing, Photoshop. And I love memes🙈.
 ✉️ &nbsp;You can shoot me an email at gurveensingh45@gmail.com! I'll try to respond as soon as I can.

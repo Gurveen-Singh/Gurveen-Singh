@@ -16,3 +16,8 @@
 👨‍💻 &nbsp;I also have knowledge of C++, Python, Penetration Testing, IoT, Postman, JMeter.\
 😁 &nbsp;Apart from this I also have interest in Video editing, Photoshop. And I love memes🙈.\
 ✉️ &nbsp;You can shoot me an email at gurveensingh45@gmail.com! I'll try to respond as soon as I can.
+
+
+## Watch my contributions get eaten by a snake 🐍
+
+![snake gif](https://github.com/Gurveen-Singh/Actions/blob/output/github-contribution-grid-snake.svg)

@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;Hi, I am a Web developer who knows how to center a div.\
- @nbsp;Jokes apart, I am a quick learner and always curious to learn new technologies.\
+ &nbsp;Jokes apart, I am a quick learner and always curious to learn new technologies.\
 💡 &nbsp;Some technologies I enjoy working with include HTML5, CSS3, SASS, JavaScript, React, Typescript, Bootstrap.\
 🌱 &nbsp;I'm on track for learning more about Developer world.\
 👨‍💻 &nbsp;I also have good knowledge of UI/UX and have hands on Figma, Affinity.\

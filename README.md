@@ -1,7 +1,7 @@
 # Hi, I'm Gurveen Singh 👋🏾 👨🏻‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Schrodinger_dev?label=Follow)](https://twitter.com/intent/follow?screen_name=Schrodinger_dev)
-[![Linkedin: Gurveen Singh](https://img.shields.io/badge/-Gurveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurveen-singh-b-45970315b/)](https://www.linkedin.com/in/gurveen-singh-b-45970315b/)
+[![Linkedin: Gurveen Singh](https://img.shields.io/badge/-Gurveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurveen-singh-bhatti/)](https://www.linkedin.com/in/gurveen-singh-bhatti/)
 ![GitHub followers](https://img.shields.io/github/followers/Gurveen-Singh?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gurveen-Singh7&color=brightgreen">
 
